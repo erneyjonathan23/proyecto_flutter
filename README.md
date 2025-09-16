@@ -22,7 +22,7 @@ test/
 1. **Clona el repositorio:**
    ```sh
    git clone https://github.com/erneyjonathan23/proyecto_flutter.git
-   cd proyecto
+   cd proyecto_flutter
    ```
 2. **Instala dependencias:**
    ```sh
